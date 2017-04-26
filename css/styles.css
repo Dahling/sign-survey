@@ -1,13 +1,13 @@
 body {
   /*border: 5px solid black;*/
   padding: 20px;
-  color: black;
+  color: white;
   text-decoration-color: pink;
   font-size: 30px;
   font-family: fantasy;
   margin: 20px;
   font-weight: bold;
-  background-image: url(../image/moonsigns.gif);
+  background-image: url(../image/astrology-planets.jpg);
 }
 
 
