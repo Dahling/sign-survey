@@ -1,0 +1,22 @@
+body {
+  /*border: 5px solid black;*/
+  padding: 20px;
+  color: black;
+  text-decoration-color: pink;
+  font-size: 30px;
+  font-family: fantasy;
+  margin: 20px;
+  font-weight: bold;
+  background-image: url(../image/moonsigns.gif);
+}
+
+
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #000;
+  text-align: center;
+  text-shadow: 55px 31px 0px rgba(255, 150, 255, 1);
+
+}
